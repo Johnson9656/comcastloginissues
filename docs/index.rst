@@ -4,7 +4,7 @@ How to Quickly Fix Common Comcast Login Issues Today
 
 In today's fast-paced digital world, managing your internet and cable services efficiently is more important than ever. Comcast, one of the leading providers of broadband internet, television, and voice services, offers a user-friendly platform for customers to manage their accounts. The **Comcast sign-in account** is an essential tool for anyone who subscribes to Comcast services, whether it’s for paying bills, checking your usage, or accessing various entertainment services. In this guide, we will walk you through the process of signing into your Comcast account, the benefits of having a Comcast sign-in account, and troubleshooting tips for common issues.
 
-.. image:: click-her.gif
+.. image:: click-here.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
